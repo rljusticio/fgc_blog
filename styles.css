@@ -365,3 +365,11 @@ footer.page-footer {
 .social-chunk .btn-floating {
     margin-right: 1em;
 }
+
+.pagination {
+	text-align: center;
+}
+
+.pagination .active a {
+	background: #b71c1c;
+}
